@@ -4,7 +4,14 @@
 
 - [Enhanced Chain Summarization Algorithm](#enhanced-chain-summarization-algorithm)
   - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
+  - [Overview](#ove
+  asd
+  asdf
+  asd
+  asdf
+  asdf
+  asdf
+  asdfrview)
   - [Architectural Overview](#architectural-overview)
   - [Fundamental Concepts](#fundamental-concepts)
     - [ChainAST Structure with Size Tracking](#chainast-structure-with-size-tracking)
